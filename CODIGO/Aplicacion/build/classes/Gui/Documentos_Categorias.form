@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,34,0,0,2,-123"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Documento segun la categoria skos"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="87" y="21" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Categoria Skos"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="50" y="67" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox1">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="444">
+            <StringItem index="0" value="Categoria"/>
+            <StringItem index="1" value="Immunology"/>
+            <StringItem index="2" value="1970s_introductions"/>
+            <StringItem index="3" value="2010s_in_Saudi_Arabia"/>
+            <StringItem index="4" value="2012_in_Asia"/>
+            <StringItem index="5" value="Abdomen"/>
+            <StringItem index="6" value="Abnormal_clinical_and_laboratory_findings"/>
+            <StringItem index="7" value="Abnormal_psychology"/>
+            <StringItem index="8" value="Acoustic_measurement"/>
+            <StringItem index="9" value="Actuarial_science"/>
+            <StringItem index="10" value="Acute_phase_proteins"/>
+            <StringItem index="11" value="Adulthood"/>
+            <StringItem index="12" value="Alternative_medical_systems"/>
+            <StringItem index="13" value="Alternative_medical_treatments"/>
+            <StringItem index="14" value="Alternative_medicine"/>
+            <StringItem index="15" value="Anatomical_pathology"/>
+            <StringItem index="16" value="Anatomy"/>
+            <StringItem index="17" value="Ancient_Hinduism"/>
+            <StringItem index="18" value="Ancient_history"/>
+            <StringItem index="19" value="Ancient_India"/>
+            <StringItem index="20" value="Angiology"/>
+            <StringItem index="21" value="Animal_anatomy"/>
+            <StringItem index="22" value="Animal_diseases"/>
+            <StringItem index="23" value="Animal_diseases_by_causative_agent"/>
+            <StringItem index="24" value="Animal_viral_diseases"/>
+            <StringItem index="25" value="Animal_virology"/>
+            <StringItem index="26" value="Animals"/>
+            <StringItem index="27" value="Anthropometry"/>
+            <StringItem index="28" value="Anthrozoology"/>
+            <StringItem index="29" value="Anti-inflammatory_agents"/>
+            <StringItem index="30" value="Anti-inflammatory_and_antirheumatic_products"/>
+            <StringItem index="31" value="Antimicrobial_drugs"/>
+            <StringItem index="32" value="Antineoplastic_and_immunomodulating_drugs"/>
+            <StringItem index="33" value="Antipredator_adaptations"/>
+            <StringItem index="34" value="Antiprotozoal_agents"/>
+            <StringItem index="35" value="Antithrombotic_agents"/>
+            <StringItem index="36" value="Applied_and_interdisciplinary_physics"/>
+            <StringItem index="37" value="Applied_mathematics"/>
+            <StringItem index="38" value="Applied_psychology"/>
+            <StringItem index="39" value="Applied_sciences"/>
+            <StringItem index="40" value="Applied_statistics"/>
+            <StringItem index="41" value="Aromatic_compounds"/>
+            <StringItem index="42" value="Arthropod_anatomy"/>
+            <StringItem index="43" value="Asian_traditional_medicine"/>
+            <StringItem index="44" value="Autoimmune_diseases"/>
+            <StringItem index="45" value="Azines"/>
+            <StringItem index="46" value="Bactericides"/>
+            <StringItem index="47" value="Bat_diseases"/>
+            <StringItem index="48" value="Betacoronaviruses"/>
+            <StringItem index="49" value="Biochemistry"/>
+            <StringItem index="50" value="Biocides"/>
+            <StringItem index="51" value="Biological_contamination"/>
+            <StringItem index="52" value="Biologically-based_therapies"/>
+            <StringItem index="53" value="Biology"/>
+            <StringItem index="54" value="Biology_and_culture"/>
+            <StringItem index="55" value="Biology_of_gender"/>
+            <StringItem index="56" value="Biopharmaceuticals"/>
+            <StringItem index="57" value="Biostatistics"/>
+            <StringItem index="58" value="Biotechnology"/>
+            <StringItem index="59" value="Biotechnology_products"/>
+            <StringItem index="60" value="Blood"/>
+            <StringItem index="61" value="Blood_disorders"/>
+            <StringItem index="62" value="Blood_tests"/>
+            <StringItem index="63" value="Bodybuilding"/>
+            <StringItem index="64" value="Botany"/>
+            <StringItem index="65" value="Brahmin_communities"/>
+            <StringItem index="66" value="Branches_of_biology"/>
+            <StringItem index="67" value="Branches_of_geography"/>
+            <StringItem index="68" value="Branches_of_philosophy"/>
+            <StringItem index="69" value="Branches_of_psychology"/>
+            <StringItem index="70" value="Business_economics"/>
+            <StringItem index="71" value="Cancer"/>
+            <StringItem index="72" value="Cancer_treatments"/>
+            <StringItem index="73" value="Cardiac_electrophysiology"/>
+            <StringItem index="74" value="Cardiac_procedures"/>
+            <StringItem index="75" value="Cardiology"/>
+            <StringItem index="76" value="Cardiovascular_diseases"/>
+            <StringItem index="77" value="Cardiovascular_system"/>
+            <StringItem index="78" value="Causes_of_death"/>
+            <StringItem index="79" value="Causes_of_events"/>
+            <StringItem index="80" value="Cell_signaling"/>
+            <StringItem index="81" value="Cells"/>
+            <StringItem index="82" value="Cellular_processes"/>
+            <StringItem index="83" value="Central_nervous_system"/>
+            <StringItem index="84" value="Chemical_engineering"/>
+            <StringItem index="85" value="Chemical_mixtures"/>
+            <StringItem index="86" value="Chemical_reaction_engineering"/>
+            <StringItem index="87" value="Chemical_reactions"/>
+            <StringItem index="88" value="Chemical_substances_by_utilization"/>
+            <StringItem index="89" value="Chemicals_in_medicine"/>
+            <StringItem index="90" value="Chemistry"/>
+            <StringItem index="91" value="Chemotherapy"/>
+            <StringItem index="92" value="Child_development"/>
+            <StringItem index="93" value="Chronic_lower_respiratory_diseases"/>
+            <StringItem index="94" value="Civilizations"/>
+            <StringItem index="95" value="Clinical_medicine"/>
+            <StringItem index="96" value="Clinical_pharmacology"/>
+            <StringItem index="97" value="Clinical_research"/>
+            <StringItem index="98" value="Coagulation_system"/>
+            <StringItem index="99" value="Cognition"/>
+            <StringItem index="100" value="Colloids"/>
+            <StringItem index="101" value="Communication_by_type"/>
+            <StringItem index="102" value="Computational_problems"/>
+            <StringItem index="103" value="Computer_data"/>
+            <StringItem index="104" value="Computer_graphics"/>
+            <StringItem index="105" value="Computer_graphics_algorithms"/>
+            <StringItem index="106" value="Computer_vision"/>
+            <StringItem index="107" value="Concurrency_control"/>
+            <StringItem index="108" value="Condensed_matter_physics"/>
+            <StringItem index="109" value="Constructivism"/>
+            <StringItem index="110" value="Consumer_protection"/>
+            <StringItem index="111" value="Continuum_mechanics"/>
+            <StringItem index="112" value="Coronaviridae"/>
+            <StringItem index="113" value="Corticosteroids"/>
+            <StringItem index="114" value="Cultural_geography"/>
+            <StringItem index="115" value="Cultural_globalization"/>
+            <StringItem index="116" value="Cultural_politics"/>
+            <StringItem index="117" value="Cultural_studies"/>
+            <StringItem index="118" value="Culture_terminology"/>
+            <StringItem index="119" value="Cutaneous_conditions"/>
+            <StringItem index="120" value="Data"/>
+            <StringItem index="121" value="Data_collection_in_research"/>
+            <StringItem index="122" value="Data_management"/>
+            <StringItem index="123" value="Databases"/>
+            <StringItem index="124" value="Death"/>
+            <StringItem index="125" value="Death_by_country"/>
+            <StringItem index="126" value="Death_in_Asia"/>
+            <StringItem index="127" value="Demography"/>
+            <StringItem index="128" value="Dietetics"/>
+            <StringItem index="129" value="Digital_signal_processing"/>
+            <StringItem index="130" value="Disease_outbreaks"/>
+            <StringItem index="131" value="Diseases_and_disorders"/>
+            <StringItem index="132" value="Diseases_and_disorders_by_system"/>
+            <StringItem index="133" value="Disorders_of_endocrine_pancreas"/>
+            <StringItem index="134" value="Distributed_computing"/>
+            <StringItem index="135" value="Doping_in_sport"/>
+            <StringItem index="136" value="Drug_discovery"/>
+            <StringItem index="137" value="Drugs"/>
+            <StringItem index="138" value="Drugs_acting_on_the_genito-urinary_system"/>
+            <StringItem index="139" value="Drugs_by_mechanism_of_action"/>
+            <StringItem index="140" value="Drugs_in_sport"/>
+            <StringItem index="141" value="Dynamics_(mechanics)"/>
+            <StringItem index="142" value="EC_3.4"/>
+            <StringItem index="143" value="Economic_liberalism"/>
+            <StringItem index="144" value="Economic_systems"/>
+            <StringItem index="145" value="Education"/>
+            <StringItem index="146" value="Educational_psychology"/>
+            <StringItem index="147" value="Effects_of_external_causes"/>
+            <StringItem index="148" value="Emergency_medical_procedures"/>
+            <StringItem index="149" value="Emergency_medicine"/>
+            <StringItem index="150" value="Emerging_technologies"/>
+            <StringItem index="151" value="Endocrine"/>
+            <StringItem index="152" value="Endocrine_diseases"/>
+            <StringItem index="153" value="Endocrine_pancreas"/>
+            <StringItem index="154" value="Endocrine_system"/>
+            <StringItem index="155" value="Environment_and_society"/>
+            <StringItem index="156" value="Environmental_science"/>
+            <StringItem index="157" value="Environmental_social_science"/>
+            <StringItem index="158" value="Environmental_studies"/>
+            <StringItem index="159" value="Enzyme_kinetics"/>
+            <StringItem index="160" value="Epidemiology"/>
+            <StringItem index="161" value="Ethics"/>
+            <StringItem index="162" value="Euthenics"/>
+            <StringItem index="163" value="Evidence-based_practices"/>
+            <StringItem index="164" value="Evolutionarily_significant_biological_phenomena"/>
+            <StringItem index="165" value="Evolutionary_dynamics"/>
+            <StringItem index="166" value="Experimental_medical_treatments"/>
+            <StringItem index="167" value="Families_(biology)"/>
+            <StringItem index="168" value="Finance"/>
+            <StringItem index="169" value="Fluid_mechanics"/>
+            <StringItem index="170" value="Food_safety_in_the_United_States"/>
+            <StringItem index="171" value="Foot"/>
+            <StringItem index="172" value="Forecasting"/>
+            <StringItem index="173" value="Forensics"/>
+            <StringItem index="174" value="Forensics"/>
+            <StringItem index="175" value="Formal_sciences"/>
+            <StringItem index="176" value="Fringe_science"/>
+            <StringItem index="177" value="Genetics"/>
+            <StringItem index="178" value="Glands"/>
+            <StringItem index="179" value="Global_business_organization"/>
+            <StringItem index="180" value="Glycobiology"/>
+            <StringItem index="181" value="Health"/>
+            <StringItem index="182" value="Health_by_country"/>
+            <StringItem index="183" value="Health_care"/>
+            <StringItem index="184" value="Health_economics"/>
+            <StringItem index="185" value="Health_in_Asia"/>
+            <StringItem index="186" value="Health_in_India"/>
+            <StringItem index="187" value="Health_informatics"/>
+            <StringItem index="188" value="Health_policy"/>
+            <StringItem index="189" value="Health_research"/>
+            <StringItem index="190" value="Health_sciences"/>
+            <StringItem index="191" value="Healthcare_occupations"/>
+            <StringItem index="192" value="Healthcare_quality"/>
+            <StringItem index="193" value="Healthcare_quality"/>
+            <StringItem index="194" value="Heart"/>
+            <StringItem index="195" value="Heart_diseases"/>
+            <StringItem index="196" value="Heterocyclic_compounds_(2_rings)"/>
+            <StringItem index="197" value="Hindu_philosophy"/>
+            <StringItem index="198" value="Hindu_studies"/>
+            <StringItem index="199" value="Hinduism_and_science"/>
+            <StringItem index="200" value="Histology"/>
+            <StringItem index="201" value="Historical_eras"/>
+            <StringItem index="202" value="History"/>
+            <StringItem index="203" value="History_of_ancient_medicine"/>
+            <StringItem index="204" value="History_of_biology_by_subdiscipline"/>
+            <StringItem index="205" value="History_of_botany"/>
+            <StringItem index="206" value="History_of_medicine"/>
+            <StringItem index="207" value="History_of_medieval_medicine"/>
+            <StringItem index="208" value="Hormonal_agents"/>
+            <StringItem index="209" value="Hormones_by_action"/>
+            <StringItem index="210" value="Hormones_of_the_hypothalamus-pituitary_axis"/>
+            <StringItem index="211" value="Hormones_of_the_hypothalamus-pituitary-adrenal_axis"/>
+            <StringItem index="212" value="Hormones_of_the_hypothalamus-pituitary-gonad_axis"/>
+            <StringItem index="213" value="Hormones_of_the_suprarenal_cortex"/>
+            <StringItem index="214" value="Human_anatomy"/>
+            <StringItem index="215" value="Human_anatomy_by_organ"/>
+            <StringItem index="216" value="Human_behavior"/>
+            <StringItem index="217" value="Human_biology"/>
+            <StringItem index="218" value="Human_body"/>
+            <StringItem index="219" value="Human_development"/>
+            <StringItem index="220" value="Human_diseases_and_disorders"/>
+            <StringItem index="221" value="Human_geography"/>
+            <StringItem index="222" value="Human_head_and_neck"/>
+            <StringItem index="223" value="Hypersensitivity"/>
+            <StringItem index="224" value="Image_processing"/>
+            <StringItem index="225" value="Imaging"/>
+            <StringItem index="226" value="Immune_system"/>
+            <StringItem index="227" value="Immunology"/>
+            <StringItem index="228" value="Immunosuppressants"/>
+            <StringItem index="229" value="Indian_society"/>
+            <StringItem index="230" value="Indian_traditions"/>
+            <StringItem index="231" value="Individualism"/>
+            <StringItem index="232" value="Industries"/>
+            <StringItem index="233" value="Industry"/>
+            <StringItem index="234" value="Infectious_diseases"/>
+            <StringItem index="235" value="Information_retrieval"/>
+            <StringItem index="236" value="Information_technology_management"/>
+            <StringItem index="237" value="Injuries"/>
+            <StringItem index="238" value="Injuries"/>
+            <StringItem index="239" value="Injuries_by_region_of_body"/>
+            <StringItem index="240" value="Insurance"/>
+            <StringItem index="241" value="Interdisciplinary_subfields_of_sociology"/>
+            <StringItem index="242" value="Internal_medicine"/>
+            <StringItem index="243" value="International_business"/>
+            <StringItem index="244" value="International_relations"/>
+            <StringItem index="245" value="Interpersonal_communication"/>
+            <StringItem index="246" value="Inverse_problems"/>
+            <StringItem index="247" value="Labour_relations"/>
+            <StringItem index="248" value="Law_enforcement_techniques"/>
+            <StringItem index="249" value="Learning"/>
+            <StringItem index="250" value="Life"/>
+            <StringItem index="251" value="Life_sciences"/>
+            <StringItem index="252" value="Lipids"/>
+            <StringItem index="253" value="Lower_respiratory_tract_diseases"/>
+            <StringItem index="254" value="Lung_disorders"/>
+            <StringItem index="255" value="Lymphocytes"/>
+            <StringItem index="256" value="Macrolides"/>
+            <StringItem index="257" value="Malaria"/>
+            <StringItem index="258" value="Manual_therapy"/>
+            <StringItem index="259" value="Massage"/>
+            <StringItem index="260" value="Mathematical_finance"/>
+            <StringItem index="261" value="Matter"/>
+            <StringItem index="262" value="Medical_and_health_organizations_based_in_the_United_States"/>
+            <StringItem index="263" value="Medical_anthropology"/>
+            <StringItem index="264" value="Medical_diagnosis"/>
+            <StringItem index="265" value="Medical_emergencies"/>
+            <StringItem index="266" value="Medical_equipment"/>
+            <StringItem index="267" value="Medical_humanities"/>
+            <StringItem index="268" value="Medical_hygiene"/>
+            <StringItem index="269" value="Medical_imaging"/>
+            <StringItem index="270" value="Medical_imaging_by_system"/>
+            <StringItem index="271" value="Medical_law"/>
+            <StringItem index="272" value="Medical_lists"/>
+            <StringItem index="273" value="Medical_physics"/>
+            <StringItem index="274" value="Medical_research"/>
+            <StringItem index="275" value="Medical_specialties"/>
+            <StringItem index="276" value="Medical_statistics"/>
+            <StringItem index="277" value="Medical_tests"/>
+            <StringItem index="278" value="Medical_treatments"/>
+            <StringItem index="279" value="Medicinal_chemistry"/>
+            <StringItem index="280" value="Medicine"/>
+            <StringItem index="281" value="Membrane_proteins"/>
+            <StringItem index="282" value="Memory"/>
+            <StringItem index="283" value="Mental_health"/>
+            <StringItem index="284" value="Metabolic_disorders"/>
+            <StringItem index="285" value="Metabolism"/>
+            <StringItem index="286" value="Microbiology"/>
+            <StringItem index="287" value="Mouth"/>
+            <StringItem index="288" value="Multiculturalism"/>
+            <StringItem index="289" value="Multidimensional_signal_processing"/>
+            <StringItem index="290" value="National_agencies_for_drug_regulation"/>
+            <StringItem index="291" value="Natural_environment_based_therapies"/>
+            <StringItem index="292" value="Natural_hazards"/>
+            <StringItem index="293" value="Naturopathy"/>
+            <StringItem index="294" value="Negative-sense_single-stranded_RNA_viruses"/>
+            <StringItem index="295" value="Neoplasms"/>
+            <StringItem index="296" value="Neuroanatomy"/>
+            <StringItem index="297" value="Neurological_disorders_by_disease_category"/>
+            <StringItem index="298" value="Neurology"/>
+            <StringItem index="299" value="Neuroscience"/>
+            <StringItem index="300" value="Nidovirales"/>
+            <StringItem index="301" value="Nuclear_technology"/>
+            <StringItem index="302" value="Nursing"/>
+            <StringItem index="303" value="Nutrition"/>
+            <StringItem index="304" value="Old_age"/>
+            <StringItem index="305" value="Olfaction"/>
+            <StringItem index="306" value="Organ_systems"/>
+            <StringItem index="307" value="Organ_systems"/>
+            <StringItem index="308" value="Organic_compounds"/>
+            <StringItem index="309" value="Organochlorides"/>
+            <StringItem index="310" value="Organs_(anatomy)"/>
+            <StringItem index="311" value="Oxygen_compounds"/>
+            <StringItem index="312" value="Pathology"/>
+            <StringItem index="313" value="Patient"/>
+            <StringItem index="314" value="Pedagogy"/>
+            <StringItem index="315" value="Personal_life"/>
+            <StringItem index="316" value="Pfizer"/>
+            <StringItem index="317" value="Pharmaceutical_industry"/>
+            <StringItem index="318" value="Pharmaceutical_sciences"/>
+            <StringItem index="319" value="Pharmaceutics"/>
+            <StringItem index="320" value="Pharmaceutics"/>
+            <StringItem index="321" value="Pharmacognosy"/>
+            <StringItem index="322" value="Pharmacologists"/>
+            <StringItem index="323" value="Pharmacology"/>
+            <StringItem index="324" value="Pharmacy"/>
+            <StringItem index="325" value="Pharmacy_in_the_United_States"/>
+            <StringItem index="326" value="Phases_of_matter"/>
+            <StringItem index="327" value="Phases_of_matter"/>
+            <StringItem index="328" value="Philosophical_theories"/>
+            <StringItem index="329" value="Philosophy_by_topic"/>
+            <StringItem index="330" value="Philosophy_of_life"/>
+            <StringItem index="331" value="Physical_chemistry"/>
+            <StringItem index="332" value="Physiology"/>
+            <StringItem index="333" value="Piping"/>
+            <StringItem index="334" value="Podiatry"/>
+            <StringItem index="335" value="Poisoning_and_certain_other_consequences_of_external_causes"/>
+            <StringItem index="336" value="Politics_by_issue"/>
+            <StringItem index="337" value="Polyketide_antibiotics"/>
+            <StringItem index="338" value="Population"/>
+            <StringItem index="339" value="Population_ecology"/>
+            <StringItem index="340" value="Poultry_diseases"/>
+            <StringItem index="341" value="Production_and_manufacturing"/>
+            <StringItem index="342" value="Products"/>
+            <StringItem index="343" value="Products_by_company"/>
+            <StringItem index="344" value="Protein_structure"/>
+            <StringItem index="345" value="Proteins_by_function"/>
+            <StringItem index="346" value="Proteins_by_structure"/>
+            <StringItem index="347" value="Pseudo-scholarship"/>
+            <StringItem index="348" value="Psychiatric_diseases_and_disorders"/>
+            <StringItem index="349" value="Psychology"/>
+            <StringItem index="350" value="Public_health"/>
+            <StringItem index="351" value="Public_sphere"/>
+            <StringItem index="352" value="Pulmonology"/>
+            <StringItem index="353" value="Radiography"/>
+            <StringItem index="354" value="Radiology"/>
+            <StringItem index="355" value="Rates"/>
+            <StringItem index="356" value="Regional_science"/>
+            <StringItem index="357" value="Relation_of_economics_to_other_disciplines"/>
+            <StringItem index="358" value="Religious_philosophical_concepts"/>
+            <StringItem index="359" value="Reproductive_system"/>
+            <StringItem index="360" value="Rescue"/>
+            <StringItem index="361" value="Research_by_field"/>
+            <StringItem index="362" value="Research_methods"/>
+            <StringItem index="363" value="Respiratory_diseases"/>
+            <StringItem index="364" value="Risk_management"/>
+            <StringItem index="365" value="Safety"/>
+            <StringItem index="366" value="Saudi_Arabian_society"/>
+            <StringItem index="367" value="Science"/>
+            <StringItem index="368" value="Science_experiments"/>
+            <StringItem index="369" value="Self"/>
+            <StringItem index="370" value="Senescence"/>
+            <StringItem index="371" value="Sensory_systems"/>
+            <StringItem index="372" value="Service_industries"/>
+            <StringItem index="373" value="Sex_hormones"/>
+            <StringItem index="374" value="Sexuality"/>
+            <StringItem index="375" value="Signal_processing"/>
+            <StringItem index="376" value="Signal_transduction"/>
+            <StringItem index="377" value="Skeletal_disorders"/>
+            <StringItem index="378" value="Social_engineering_(political_science)"/>
+            <StringItem index="379" value="Social_epistemology"/>
+            <StringItem index="380" value="Social_institutions"/>
+            <StringItem index="381" value="Social_issues"/>
+            <StringItem index="382" value="Social_sciences"/>
+            <StringItem index="383" value="Social_theories"/>
+            <StringItem index="384" value="Society"/>
+            <StringItem index="385" value="Sociological_theories"/>
+            <StringItem index="386" value="Sociology"/>
+            <StringItem index="387" value="Soft_matter"/>
+            <StringItem index="388" value="Solid_mechanics"/>
+            <StringItem index="389" value="South_Asia"/>
+            <StringItem index="390" value="South_Asian_traditional_medicine"/>
+            <StringItem index="391" value="Special_education"/>
+            <StringItem index="392" value="Speculative_fiction"/>
+            <StringItem index="393" value="Statistics"/>
+            <StringItem index="394" value="Stereotypes"/>
+            <StringItem index="395" value="Steroid_hormones"/>
+            <StringItem index="396" value="Steroids"/>
+            <StringItem index="397" value="Subfields_of_ecology"/>
+            <StringItem index="398" value="Subfields_of_evolutionary_biology"/>
+            <StringItem index="399" value="Surface_science"/>
+            <StringItem index="400" value="Symptoms_and_signs"/>
+            <StringItem index="401" value="Technology_assessment"/>
+            <StringItem index="402" value="Technology_by_type"/>
+            <StringItem index="403" value="Terminology"/>
+            <StringItem index="404" value="Tests"/>
+            <StringItem index="405" value="Theories"/>
+            <StringItem index="406" value="Theory_of_medicine"/>
+            <StringItem index="407" value="Therapy"/>
+            <StringItem index="408" value="Thymus"/>
+            <StringItem index="409" value="Time"/>
+            <StringItem index="410" value="Torso"/>
+            <StringItem index="411" value="Trade"/>
+            <StringItem index="412" value="Traditional_knowledge"/>
+            <StringItem index="413" value="Traditional_medicine_in_India"/>
+            <StringItem index="414" value="Trilobites"/>
+            <StringItem index="415" value="Tuberculosis"/>
+            <StringItem index="416" value="Type_I_hypersensitivity"/>
+            <StringItem index="417" value="Types_of_cancer"/>
+            <StringItem index="418" value="Types_of_databases"/>
+            <StringItem index="419" value="Types_of_scientific_fallacy"/>
+            <StringItem index="420" value="Ultrasound"/>
+            <StringItem index="421" value="United_States_Department_of_Health_and_Human_Services_agencies"/>
+            <StringItem index="422" value="Urinary_system"/>
+            <StringItem index="423" value="Utility_software_by_type"/>
+            <StringItem index="424" value="Vaccines"/>
+            <StringItem index="425" value="Value_(ethics)"/>
+            <StringItem index="426" value="Vascular_diseases"/>
+            <StringItem index="427" value="Veterinary_medicine"/>
+            <StringItem index="428" value="Viral_diseases"/>
+            <StringItem index="429" value="Viral_respiratory_tract_infections"/>
+            <StringItem index="430" value="Virology"/>
+            <StringItem index="431" value="Virus_families"/>
+            <StringItem index="432" value="Virus_taxonomy"/>
+            <StringItem index="433" value="Viruses"/>
+            <StringItem index="434" value="Wealth"/>
+            <StringItem index="435" value="Wikipedia_categories_named_after_government_agencies"/>
+            <StringItem index="436" value="Wikipedia_categories_named_after_medical_and_health_organizations"/>
+            <StringItem index="437" value="Wikipedia_maintenance"/>
+            <StringItem index="438" value="Working_conditions"/>
+            <StringItem index="439" value="Works_about_history"/>
+            <StringItem index="440" value="World"/>
+            <StringItem index="441" value="World_Health_Organization"/>
+            <StringItem index="442" value="Zoology"/>
+            <StringItem index="443" value="Zoonoses"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jComboBox1MouseClicked"/>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox1ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="140" y="60" width="250" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="100" width="630" height="140"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="jTable1">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="1" rowCount="4">
+                <Column editable="true" title="Docuemntos" type="java.lang.Object"/>
+              </Table>
+            </Property>
+            <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+              <TableColumnModel selectionModel="0">
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="false">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+              </TableColumnModel>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jTable1MouseClicked"/>
+          </Events>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Volver"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="530" y="20" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="40" y="270" width="550" height="250"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

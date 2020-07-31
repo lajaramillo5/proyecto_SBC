@@ -1,0 +1,135 @@
+﻿id;doi;key;lable;esp;dbepedia
+1;https://doi.org/10.1016/j.tmrv.2020.06.001;ACUTE RESPIRATORY DISTRESS SYNDROME;ACUTE RESPIRATORY DISTRESS SYNDROME;SÍNDROME DE DISTRÉS RESPIRATORIO AGUDO;http://dbpedia.org/resource/Acute_respiratory_distress_syndrome
+2;https://doi.org/10.1016/j.cytogfr.2020.06.012;ARDS;ARDS;SDRA;http://dbpedia.org/resource/Acute_respiratory_distress_syndrome
+3;https://doi.org/10.1016/j.phclin.2020.06.003;ADVERSE REACTIONS;ADVERSE REACTIONS;REACCIONES ADVERSAS;http://dbpedia.org/resource/Adverse_effect
+4;https://doi.org/10.1016/j.gine.2020.05.001;AEROSOLS;AEROSOLS;AEROSOLES;http://dbpedia.org/resource/Aerosol
+5;https://doi.org/10.1016/j.jaci.2020.05.033;ALLERGIC RHINITIS;ALLERGIC RHINITIS;RINITIS ALÉRGICA;http://dbpedia.org/resource/Allergic_rhinitis
+6;https://doi.org/10.1053/j.seminoncol.2020.06.002;ANDROGENS;ANDROGENS;ANDROGENOS;http://dbpedia.org/resource/Androgen
+7;https://doi.org/10.1016/j.jacbts.2020.04.003;ACE2;ACE2;ACE2;http://dbpedia.org/resource/Angiotensin-converting_enzyme_2
+8;https://doi.org/10.1016/j.jaci.2020.05.033;ACE2;ACE2;ACE2;http://dbpedia.org/resource/Angiotensin-converting_enzyme_2
+9;https://doi.org/10.1016/j.otorri.2020.04.003;ANOSMIA;ANOSMIA;ANOSMIA;http://dbpedia.org/resource/Anosmia
+10;https://doi.org/10.1016/j.cpcardiol.2020.100648;ANTICOAGULATION THERAPY;ANTICOAGULATION THERAPY;TERAPIA ANTICOAGULACION;http://dbpedia.org/resource/Anticoagulant
+11;https://doi.org/10.1016/j.jaci.2020.05.033;ASTHMA;ASTHMA;ASMA;http://dbpedia.org/resource/Asthma
+12;https://doi.org/10.1016/j.mpdhp.2020.06.001;AUTOPSY;AUTOPSY;AUTOPSIA;http://dbpedia.org/resource/Autopsy
+13;https://doi.org/10.1016/j.bbi.2020.04.056;AYURVEDA;AYURVEDA;AYURVEDA;http://dbpedia.org/resource/Ayurveda
+14;https://doi.org/10.1016/j.ijantimicag.2020.106053;AZITHROMYCIN;AZITHROMYCIN;Azitromicina;http://dbpedia.org/resource/Azithromycin
+15;https://doi.org/10.1016/j.nmni.2020.100684;AZITHROMYCIN;AZITHROMYCIN;Azitromicina;http://dbpedia.org/resource/Azithromycin
+16;https://doi.org/10.1016/j.cytogfr.2020.06.014;BCG;BCG;BCG;http://dbpedia.org/resource/BCG_vaccine
+17;https://doi.org/10.1016/j.ijsu.2020.06.027;BIG DATA;BIG DATA;GRANDES DATOS;http://dbpedia.org/resource/Big_data
+18;https://doi.org/10.1016/j.clineuro.2020.105866;BRAIN;BRAIN;CEREBRO;http://dbpedia.org/resource/Brain
+19;https://doi.org/10.1016/j.critrevonc.2020.102982;CANCER;CANCER;CÁNCER;http://dbpedia.org/resource/Cancer
+20;https://doi.org/10.1016/j.rccar.2020.05.004;ARRHYTHMIAS;ARRHYTHMIAS;ARRITMIAS;http://dbpedia.org/resource/Cardiac_arrhythmia
+21;https://doi.org/10.1016/j.cpcardiol.2020.100645;CARDIOVASCULAR DISEASE;CARDIOVASCULAR DISEASE;ENFERMEDAD CARDIOVASCULAR;http://dbpedia.org/resource/Cardiovascular_disease
+22;https://doi.org/10.1016/j.intcar.2020.100003;CARE PERSPECTIVE;CARE PERSPECTIVE;CUIDADO PERSPECTIVO;http://dbpedia.org/resource/Care_perspective
+23;https://doi.org/10.1016/j.ijsu.2020.06.027;ELECTROCAUTERY;ELECTROCAUTERY;ELECTROCAUTERIA;http://dbpedia.org/resource/Cauterization
+24;https://doi.org/10.1016/j.jdiacomp.2020.107666;CD4;CD4;CD4;http://dbpedia.org/resource/CD4
+25;https://doi.org/10.1016/j.jasc.2020.03.001;CYTOLOGY;CYTOLOGY;CITOLOGÍA;http://dbpedia.org/resource/Cell_biology
+26;https://doi.org/10.1016/j.tmrv.2020.06.001;CELLULAR THERAPY;CELLULAR THERAPY;TERAPIA CELULAR;http://dbpedia.org/resource/Cell_therapy
+27;https://doi.org/10.1016/j.jns.2020.116832;CNS;CNS;CNS;http://dbpedia.org/resource/Central_nervous_system
+28;https://doi.org/10.1016/j.bbih.2020.100092;CEREBROVASCULAR DISEASE;CEREBROVASCULAR DISEASE;ENFERMEDAD CEREBROVASCULAR;http://dbpedia.org/resource/Cerebrovascular_disease
+29;https://doi.org/10.1016/j.nrl.2020.04.015;CEREBROVASCULAR DISEASES;CEREBROVASCULAR DISEASES;ENFERMEDADES CEREBROVASCULARES;http://dbpedia.org/resource/Cerebrovascular_disease
+30;https://doi.org/10.1016/j.critrevonc.2020.102982;CHEMOTHERAPY;CHEMOTHERAPY;QUIMIOTERAPIA;http://dbpedia.org/resource/Chemotherapy
+31;https://doi.org/10.1053/j.seminoncol.2020.05.012;CHILBLAINS;CHILBLAINS;CHILBLAINS;http://dbpedia.org/resource/Chilblains
+32;https://doi.org/10.1016/j.jinf.2020.04.011;CHINA;CHINA;CHINA;http://dbpedia.org/resource/China
+33;https://doi.org/10.1016/j.rssm.2020.100522;CHINA;CHINA;CHINA;http://dbpedia.org/resource/China
+34;https://doi.org/10.1016/j.nmni.2020.100680;CHLOROQUINE;CHLOROQUINE;CLOROQUINA;http://dbpedia.org/resource/Chloroquine
+35;https://doi.org/10.1016/j.biopha.2020.110499;CLINICAL TRIALS;CLINICAL TRIALS;ENSAYOS CLÍNICOS;http://dbpedia.org/resource/Clinical_trial
+36;https://doi.org/10.1016/j.jacbts.2020.04.003;CLINICAL TRIALS;CLINICAL TRIALS;ENSAYOS CLÍNICOS;http://dbpedia.org/resource/Clinical_trial
+37;https://doi.org/10.1016/j.tmrv.2020.06.001;CLINICAL TRIALS;CLINICAL TRIALS;ENSAYOS CLÍNICOS;http://dbpedia.org/resource/Clinical_trial
+38;https://doi.org/10.1016/j.tmrv.2020.06.003;CLINICAL TRIALS;CLINICAL TRIALS;ENSAYOS CLÍNICOS;http://dbpedia.org/resource/Clinical_trial
+39;https://doi.org/10.1016/j.thromres.2020.06.027;COAGULATION;COAGULATION;COAGULACIÓN;http://dbpedia.org/resource/Coagulation
+40;https://doi.org/10.1016/j.cpcardiol.2020.100648;COAGULOPATHY;COAGULOPATHY;COAGULOPATÍA;http://dbpedia.org/resource/Coagulopathy
+41;https://doi.org/10.1016/j.jmii.2020.05.013;CO-INFECTION;CO-INFECTION;CO-INFECCIÓN;http://dbpedia.org/resource/Coinfection
+42;https://doi.org/10.1016/j.cytogfr.2020.06.014;CO-MORBIDITY;CO-MORBIDITY;COMORBILIDAD;http://dbpedia.org/resource/Comorbidity
+43;https://doi.org/10.1016/j.thromres.2020.06.027;COMPLEMENT;COMPLEMENT;COMPLEMENTO;http://dbpedia.org/resource/Complement_system
+44;https://doi.org/10.1016/j.kint.2020.05.013;COMPLEMENT ACTIVATION;COMPLEMENT ACTIVATION;ACTIVACIÓN DEL COMPLEMENTO;http://dbpedia.org/resource/Complement_system
+45;https://doi.org/10.1016/j.cytogfr.2020.06.014;CORONAVIRUS;CORONAVIRUS;CORONAVIRUS;http://dbpedia.org/resource/Coronavirus
+46;https://doi.org/10.1016/j.ejogrb.2020.06.058;CORONAVIRUS;CORONAVIRUS;CORONAVIRUS;http://dbpedia.org/resource/Coronavirus
+47;https://doi.org/10.1016/j.jasc.2020.03.001;CORONAVIRUS;CORONAVIRUS;CORONAVIRUS;http://dbpedia.org/resource/Coronavirus
+48;https://doi.org/10.1016/j.jaut.2020.102433;CORONAVIRUS;CORONAVIRUS;CORONAVIRUS;http://dbpedia.org/resource/Coronavirus
+49;https://doi.org/10.1016/j.jns.2020.116832;CORONAVIRUS;CORONAVIRUS;CORONAVIRUS;http://dbpedia.org/resource/Coronavirus
+50;https://doi.org/10.1016/j.jor.2020.06.003;CORONAVIRUS;CORONAVIRUS;CORONAVIRUS;http://dbpedia.org/resource/Coronavirus
+51;https://doi.org/10.1016/j.jtcme.2020.05.004;CORONAVIRUS;CORONAVIRUS;CORONAVIRUS;http://dbpedia.org/resource/Coronavirus
+52;https://doi.org/10.1016/j.mpdhp.2020.06.001;CORONAVIRUS;CORONAVIRUS;CORONAVIRUS;http://dbpedia.org/resource/Coronavirus
+53;https://doi.org/10.1016/j.nrl.2020.04.015;CORONAVIRUS;CORONAVIRUS;CORONAVIRUS;http://dbpedia.org/resource/Coronavirus
+54;https://doi.org/10.1016/j.shaw.2020.06.001;CORONAVIRUS;CORONAVIRUS;CORONAVIRUS;http://dbpedia.org/resource/Coronavirus
+55;https://doi.org/10.1016/j.thromres.2020.06.027;CORONAVIRUS;CORONAVIRUS;CORONAVIRUS;http://dbpedia.org/resource/Coronavirus
+56;https://doi.org/10.1053/j.seminoncol.2020.06.002;CORONAVIRUS;CORONAVIRUS;CORONAVIRUS;http://dbpedia.org/resource/Coronavirus
+57;https://doi.org/10.1016/j.nmni.2020.100684;CORONAVIRUS;CORONAVIRUS;CORONAVIRUS;http://dbpedia.org/resource/Coronavirus
+58;https://doi.org/10.1016/j.ajps.2020.06.001;CORONAVIRUS;CORONAVIRUS;CORONAVIRUS;http://dbpedia.org/resource/Coronavirus
+59;https://doi.org/10.1016/j.nmni.2020.100680;CORONAVIRUS;CORONAVIRUS;CORONAVIRUS;http://dbpedia.org/resource/Coronavirus
+60;https://doi.org/10.1016/j.cdtm.2020.05.002;CORONAVIRUS DISEASE 2019 (COVID-19);CORONAVIRUS DISEASE 2019 (COVID-19);ENFERMEDAD DE CORONAVIRUS 2019 (COVID-19);http://dbpedia.org/resource/Coronavirus
+61;https://doi.org/10.1016/j.phclin.2020.06.003;CORONAVIRUS DISEASE 2019 (COVID-19);CORONAVIRUS DISEASE 2019 (COVID-19);ENFERMEDAD DE CORONAVIRUS 2019 (COVID-19);http://dbpedia.org/resource/Coronavirus
+62;https://doi.org/10.1016/j.cjtee.2020.06.002;CORTICOSTEROID;CORTICOSTEROID;CORTICOSTEROIDES;http://dbpedia.org/resource/Corticosteroid
+63;https://doi.org/10.1016/j.cmi.2020.06.020;CORTICOSTEROID;CORTICOSTEROID;CORTICOSTEROIDES;http://dbpedia.org/resource/Corticosteroid
+64;https://doi.org/10.1016/j.jrid.2020.04.001;COMPUTED TOMOGRAPHY;COMPUTED TOMOGRAPHY;TOMOGRAFÍA COMPUTARIZADA;http://dbpedia.org/resource/CT_scan
+65;https://doi.org/10.1016/j.retram.2020.06.001;CT;CT;Connecticut;http://dbpedia.org/resource/CT_scan
+66;https://doi.org/10.1016/j.cytogfr.2020.06.014;CYTOKINE;CYTOKINE;Citoquina;http://dbpedia.org/resource/Cytokine
+67;https://doi.org/10.1016/j.btre.2020.e00467;CYTOKINES;CYTOKINES;Citoquinas;http://dbpedia.org/resource/Cytokine
+68;https://doi.org/10.1016/j.niox.2020.06.002;CYTOKINE STORM;CYTOKINE STORM;TORMENTA DE CITOQUINA;http://dbpedia.org/resource/Cytokine_storm
+69;https://doi.org/10.1016/j.cytogfr.2020.06.013;CYTOKINE STORM;CYTOKINE STORM;TORMENTA DE CITOQUINA;http://dbpedia.org/resource/Cytokine_storm
+70;https://doi.org/10.1016/j.oraloncology.2020.104741;DENTISTRY;DENTISTRY;ODONTOLOGÍA;http://dbpedia.org/resource/Dentistry
+71;https://doi.org/10.1016/j.diabres.2020.108142;DIABETES;DIABETES;DIABETES;http://dbpedia.org/resource/Diabetes_mellitus
+72;https://doi.org/10.1016/j.jdiacomp.2020.107666;DIABETES;DIABETES;DIABETES;http://dbpedia.org/resource/Diabetes_mellitus
+73;https://doi.org/10.1016/j.pcd.2020.06.010;DIABETES MELLITUS;DIABETES MELLITUS;DIABETES MELLITUS;http://dbpedia.org/resource/Diabetes_mellitus
+74;https://doi.org/10.1016/j.retram.2020.06.001;DIAGNOSIS;DIAGNOSIS;DIAGNÓSTICO;http://dbpedia.org/resource/Diagnosis
+75;https://doi.org/10.1016/j.intcar.2020.100003;DISEASE;DISEASE;ENFERMEDAD;http://dbpedia.org/resource/Disease
+76;https://doi.org/10.1016/j.ajps.2020.06.001;DRUG DISCOVERY;DRUG DISCOVERY;DESCUBRIMIENTO DE MEDICAMENTO;http://dbpedia.org/resource/Drug_discovery
+77;https://doi.org/10.1016/j.critrevonc.2020.102982;DRUG INTERACTION;DRUG INTERACTION;LA INTERACCIÓN DE DROGAS;http://dbpedia.org/resource/Drug_interaction
+78;https://doi.org/10.1016/j.oooo.2020.06.011;DRUG INTERACTIONS;DRUG INTERACTIONS;INTERACCIONES CON LA DROGAS;http://dbpedia.org/resource/Drug_interaction
+79;https://doi.org/10.1016/j.phclin.2020.06.003;DRUGS REPURPOSING;DRUGS REPURPOSING;RECUPERACIÓN DE DROGAS;http://dbpedia.org/resource/Drug_repositioning
+80;https://doi.org/10.1016/j.ppedcard.2020.101259;FETAL TELE-ECHOCARDIOGRAPHY;FETAL TELE-ECHOCARDIOGRAPHY;TELECOCARDIOGRAFÍA FETAL;http://dbpedia.org/resource/Echocardiography
+81;https://doi.org/10.1016/j.biopha.2020.110499;EMERGING;EMERGING;EMERGENTE;http://dbpedia.org/resource/Emerging_infectious_disease
+82;https://doi.org/10.1016/j.bbih.2020.100092;ENDOTHELITIS;ENDOTHELITIS;ENDOTELITIS;http://dbpedia.org/resource/Endotheliitis
+83;https://doi.org/10.1016/j.kint.2020.05.013;C5 INHIBITION;C5 INHIBITION;INHIBICIÓN C5;http://dbpedia.org/resource/Enzyme_inhibitor
+84;https://doi.org/10.1016/j.nmni.2020.100680;EPIDEMIC;EPIDEMIC;EPIDEMIA;http://dbpedia.org/resource/Epidemic
+85;https://doi.org/10.1016/j.jinf.2020.04.011;EPIDEMIOLOGY;EPIDEMIOLOGY;EPIDEMIOLOGÍA;http://dbpedia.org/resource/Epidemiology
+86;https://doi.org/10.1016/j.jinf.2020.04.011;EPIDEMIOLOGY;EPIDEMIOLOGY;EPIDEMIOLOGÍA;http://dbpedia.org/resource/Epidemiology
+87;https://doi.org/10.1016/j.oraloncology.2020.104741;EPIDEMIOLOGY;EPIDEMIOLOGY;EPIDEMIOLOGÍA;http://dbpedia.org/resource/Epidemiology
+88;https://doi.org/10.1016/j.amsu.2020.06.003;ETHICS;ETHICS;ÉTICA;http://dbpedia.org/resource/Ethics
+89;https://doi.org/10.1016/j.ppedcard.2020.101259;FETAL ECHOCARDIOGRAPHY;FETAL ECHOCARDIOGRAPHY;ECOCARDIOGRAFÍA FETAL;http://dbpedia.org/resource/Fetal_echocardiography
+90;https://doi.org/10.1016/j.niox.2020.06.002;FREE RADICALS;FREE RADICALS;RADICALES LIBRES;http://dbpedia.org/resource/Fetal_echocardiography
+91;https://doi.org/10.1016/j.jmii.2020.03.022;GENOTYPE;GENOTYPE;GENOTIPO;http://dbpedia.org/resource/Genotype
+92;https://doi.org/10.1016/j.mad.2020.111255;GERIATRIC PATIENTS;GERIATRIC PATIENTS;Pacientes geriátricos;http://dbpedia.org/resource/Geriatrics
+93;https://doi.org/10.1016/j.biopha.2020.110499;GLOBALIZATION;GLOBALIZATION;Globalización;http://dbpedia.org/resource/Globalization
+94;https://doi.org/10.1016/j.jinf.2020.04.011;GLOBALIZATION;GLOBALIZATION;Globalización;http://dbpedia.org/resource/Globalization
+95;https://doi.org/10.1016/j.cytogfr.2020.06.012;GLUCOCORTICOIDS;GLUCOCORTICOIDS;GLUCOCORTICOIDES;http://dbpedia.org/resource/Glucocorticoid
+96;https://doi.org/10.1016/j.cytogfr.2020.06.014;GROWTH FACTORS;GROWTH FACTORS;FACTORES DE CRECIMIENTO;http://dbpedia.org/resource/Growth_factor
+97;https://doi.org/10.1016/j.shaw.2020.06.001;HEALTH WORKER;HEALTH WORKER;TRABAJADOR DE LA SALUD;http://dbpedia.org/resource/Health_professional
+98;https://doi.org/10.1016/j.jtcme.2020.05.004;HERBAL MEDICINE;HERBAL MEDICINE;MEDICINA HERBARIA;http://dbpedia.org/resource/Herbalism
+99;https://doi.org/10.1016/j.jtcme.2020.05.004;HERBS;HERBS;HIERBAS;http://dbpedia.org/resource/Herbalism
+100;https://doi.org/10.1016/j.jor.2020.06.003;HIP FRACTURE;HIP FRACTURE;FRACTURA DE CADERA;http://dbpedia.org/resource/Hip_fracture
+101;https://doi.org/10.1016/j.mpdhp.2020.06.001;HISTOPATHOLOGY;HISTOPATHOLOGY;HISTOPATOLOGIA;http://dbpedia.org/resource/Histopathology
+102;https://doi.org/10.1016/j.ijantimicag.2020.106053;HYDROXYCHLOROQUIN;HYDROXYCHLOROQUIN;Hidroxicloroquina;http://dbpedia.org/resource/Hydroxychloroquine
+103;https://doi.org/10.1016/j.oooo.2020.06.011;HYDROXYCHLOROQUINE;HYDROXYCHLOROQUINE;HIDROXICLOROQUINA;http://dbpedia.org/resource/Hydroxychloroquine
+104;https://doi.org/10.1016/j.nmni.2020.100684;HYDROXYCHLOROQUINE;HYDROXYCHLOROQUINE;HIDROXICLOROQUINA;http://dbpedia.org/resource/Hydroxychloroquine
+105;https://doi.org/10.1016/j.nmni.2020.100680;HYDROXYCHLOROQUINE;HYDROXYCHLOROQUINE;HIDROXICLOROQUINA;http://dbpedia.org/resource/Hydroxychloroquine
+106;https://doi.org/10.1016/j.jdiacomp.2020.107666;HYPERGLYCEMIA;HYPERGLYCEMIA;Hiperglicemia;http://dbpedia.org/resource/Hyperglycemia
+107;https://doi.org/10.1016/j.jdiacomp.2020.107666;DISLIPIDEMIA;DISLIPIDEMIA;DISLIPIDEMIA;http://dbpedia.org/resource/Hyperlipidemia
+108;https://doi.org/10.1016/j.cytogfr.2020.06.012;IMMUNE RESPONSE;IMMUNE RESPONSE;RESPUESTA INMUNE;http://dbpedia.org/resource/Immune_system
+109;https://doi.org/10.1016/j.ejogrb.2020.06.058;IMMUNE MARKERS;IMMUNE MARKERS;MARCADORES INMUNITARIOS;http://dbpedia.org/resource/Immunology
+110;https://doi.org/10.1016/j.btre.2020.e00467;IMMUNOMODULATORY;IMMUNOMODULATORY;INMUNOMODULATORIO;http://dbpedia.org/resource/Immunotherapy
+111;https://doi.org/10.1016/j.cjtee.2020.06.002;IMMUNOMODULATORY THERAPY;IMMUNOMODULATORY THERAPY;TERAPIA INMUNOMODULATORIA;http://dbpedia.org/resource/Immunotherapy
+112;https://doi.org/10.1016/j.cjtee.2020.06.002;IMMUNOTHERAPY;IMMUNOTHERAPY;INMUNOTERAPIA;http://dbpedia.org/resource/Immunotherapy
+113;https://doi.org/10.1016/j.rssm.2020.100522;INCOME;INCOME;INGRESOS;http://dbpedia.org/resource/Income
+114;https://doi.org/10.1016/j.tmrv.2020.06.003; INFECTION; INFECTION; INFECCIÓN;http://dbpedia.org/resource/Infection
+115;https://doi.org/10.1016/j.biopha.2020.110499;INFECTION;INFECTION;INFECCIÓN;http://dbpedia.org/resource/Infection
+116;https://doi.org/10.1016/j.nrl.2020.04.015;INFECTION;INFECTION;INFECCIÓN;http://dbpedia.org/resource/Infection
+117;https://doi.org/10.1016/j.jiph.2020.06.021;INFECTIONS;INFECTIONS;INFECCIONES;http://dbpedia.org/resource/Infection
+118;https://doi.org/10.1016/j.arteri.2020.06.003;INFLAMMATION;INFLAMMATION;INFLAMACIÓN;http://dbpedia.org/resource/Inflammation
+119;https://doi.org/10.1016/j.thromres.2020.06.027;INFLAMMATION;INFLAMMATION;INFLAMACIÓN;http://dbpedia.org/resource/Inflammation
+120;https://doi.org/10.1016/j.cmi.2020.06.020;INFLUENZA;INFLUENZA;INFLUENZA;http://dbpedia.org/resource/Influenza
+121;https://doi.org/10.1016/j.cdtm.2020.05.002;INTELLIGENCE;INTELLIGENCE;INTELIGENCIA;http://dbpedia.org/resource/Intelligence
+122;https://doi.org/10.1016/j.intcar.2020.100003;CRITICAL CARE;CRITICAL CARE;CUIDADO CRÍTICO;http://dbpedia.org/resource/Intensive_care_medicine
+123;https://doi.org/10.1016/j.intcar.2020.100003;CRITICAL CARE;CRITICAL CARE;CUIDADO CRÍTICO;http://dbpedia.org/resource/Intensive_care_medicine
+124;https://doi.org/10.1016/j.kint.2020.05.013;KIDNEY INJURY;KIDNEY INJURY;LESIONES RENALES;http://dbpedia.org/resource/Kidney
+125;https://doi.org/10.1053/j.seminoncol.2020.05.012;CHILBLAIN-LIKE LESIONS;CHILBLAIN-LIKE LESIONS;Lesiones similares a la de chillan;http://dbpedia.org/resource/Lesion
+126;https://doi.org/10.1016/j.jrid.2020.04.001;IMAGING FEATURES;IMAGING FEATURES;CARACTERÍSTICAS DE IMAGEN;http://dbpedia.org/resource/Medical_imaging
+127;https://doi.org/10.1016/j.diabres.2020.108142;CLINICAL MANAGEMENT;CLINICAL MANAGEMENT;GESTIÓN CLÍNICA;http://dbpedia.org/resource/Medicine
+128;https://doi.org/10.1016/j.aller.2020.06.001;2019 NOVEL CORONAVIRUS;2019 NOVEL CORONAVIRUS;NUEVO CORONAVIRUS 2019;http://dbpedia.org/resource/Middle_East_respiratory_syndrome_coronavirus
+129;https://doi.org/10.1016/j.cegh.2020.06.004;DEATH RATE;DEATH RATE;ÍNDICE DE MORTALIDAD;http://dbpedia.org/resource/Mortality_rate
+130;https://doi.org/10.1016/j.mad.2020.111255;ELDERLY;ELDERLY;MAYOR;http://dbpedia.org/resource/Old_age
+131;https://doi.org/10.1016/j.jmii.2020.05.013;INFLUENZA VIRUSES;INFLUENZA VIRUSES;VIRUS DE INFLUENZA;http://dbpedia.org/resource/Orthomyxoviridae
+132;https://doi.org/10.1016/j.otorri.2020.04.003;PANDEMIA;PANDEMIA;Pandemia;http://dbpedia.org/resource/Pandemic
+133;https://doi.org/10.1016/j.cegh.2020.06.004;CASE LOAD RATE;CASE LOAD RATE;TASA DE CARGA DEL CASO;http://dbpedia.org/resource/Reaction_rate
+134;https://doi.org/10.1016/j.jrid.2020.04.001;CHEST;CHEST;COFRE;http://dbpedia.org/resource/Thorax

@@ -1,0 +1,2034 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dct="http://purl.org/dc/terms/"
+        xmlns:skos="http://www.w3.org/2004/02/skos/core#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Immune_system">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Immune_system" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Immune_system">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Organ_systems" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Immunology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Acute_respiratory_distress_syndrome">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Causes_of_death" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Respiratory_physiology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Respiratory_diseases_principally_affecting_the_interstitium" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Intensive_care_medicine" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Syndromes" />
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Causes_of_death">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Death" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Forensics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Causes_of_events" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Intensive_care_medicine">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Respiratory_physiology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Physiology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pulmonology" />
+  </rdf:Description>
+
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Syndromes">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Special_education" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Diseases_and_disorders" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Respiratory_diseases_principally_affecting_the_interstitium">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Lung_disorders" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Anosmia">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Neurological_disorders" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Olfactory_system" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olfactory_bulb">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cerebrum" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Olfactory_system" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Limbic_system" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Pandemic">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Biological_hazards" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Doomsday_scenarios" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Global_health" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Future_problems" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Economic_problems" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pandemics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Epidemiology" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/CT_scan">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:X-ray_computed_tomography" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1972_introductions" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_containing_video_clips" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_tests" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Multidimensional_signal_processing" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Thorax">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animal_anatomy" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Trilobite_anatomy" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Thorax_(human_anatomy)" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Medical_imaging">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Image_processing" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_imaging" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_physics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nuclear_medicine" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Aerosol">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Solids" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Fluid_dynamics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Aerosols" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Physical_chemistry" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Colloidal_chemistry" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Colloids" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Liquids" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Ethics">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Axiology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Philosophy_of_life" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ethics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Social_philosophy" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Professional">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Management" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Occupations" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Infection">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Infectious_diseases" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Epidemiology" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Middle_East_respiratory_syndrome_coronavirus">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Death_in_Saudi_Arabia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Viral_respiratory_tract_infections" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2012_in_Saudi_Arabia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:2013_in_Saudi_Arabia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Zoonoses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Health_in_Saudi_Arabia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animal_viral_diseases" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bat-borne_viruses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Betacoronaviruses" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Middle_East_respiratory_syndrome" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Angiotensin-converting_enzyme_2">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:EC_3.4.17" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Acute_respiratory_distress_syndrome">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Causes_of_death" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Respiratory_physiology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Respiratory_diseases_principally_affecting_the_interstitium" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Intensive_care_medicine" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Syndromes" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Adverse_effect">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Effects_of_external_causes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Clinical_pharmacology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Patient_safety" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_terminology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Allergic_rhinitis">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Type_I_hypersensitivity" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Allergology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:RTT" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Androgen">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sex_hormones" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Androgens/anabolic_steroids" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hormones_of_the_hypothalamus-pituitary-gonad_axis" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anticoagulant">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Anticoagulants" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Acute_respiratory_distress_syndrome">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Causes_of_death" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Respiratory_physiology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Respiratory_diseases_principally_affecting_the_interstitium" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Intensive_care_medicine" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Syndromes" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Cardiac_arrhythmia">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:RTT" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_emergencies" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cardiac_arrhythmia" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Asthma">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:RTT(full)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Asthma" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chronic_lower_respiratory_diseases" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Respiratory_therapy" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Autopsy">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Post-mortem" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Forensic_techniques" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Anatomical_pathology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_aspects_of_death" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Ayurveda">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pseudoscience" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_ancient_medicine" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hindu_philosophical_concepts" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Health_in_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Traditional_medicine_in_India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Vedic_period" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ayurveda" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Massage_therapy" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:South_Asian_traditional_medicine" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Traditional_medicine" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alternative_medical_systems" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Sakaldwipiya" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Azithromycin">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Antibiotics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:World_Health_Organization_essential_medicines" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Antimalarial_agents" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:RTT" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pfizer_products" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Macrolide_antibiotics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/BCG_vaccine">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:RTT" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Live_vaccines" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Tuberculosis_vaccines" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:World_Health_Organization_essential_medicines_(vaccines)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cancer_vaccines" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Big_data">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Technology_forecasting" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Distributed_computing_problems" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Big_data" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Transaction_processing" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Data_management" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brain">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Organs_(anatomy)" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Human_anatomy_by_organ" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animal_anatomy" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Brain" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Enzyme_inhibitor">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Enzyme_inhibitors" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medicinal_chemistry" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Metabolism" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Cancer">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Types_of_cancer" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Types_of_neoplasia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Oncology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pathology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:RTT" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cancer" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Aging-associated_diseases" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Occupational_safety_and_health" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Cardiovascular_disease">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:RTT" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Heart_diseases" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Care_perspective">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Human_communication" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reaction_rate">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chemical_reaction_engineering" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Temporal_rates" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chemical_kinetics" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CD4">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Glycoproteins" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:T_cells" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Clusters_of_differentiation" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Protein_domains" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cell_therapy">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cell_biology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Stem_cells" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Biotechnology" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Chemotherapy">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chemotherapy" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Oncology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cancer_treatments" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Antineoplastic_drugs" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lesion">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_signs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Anatomical_pathology" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chilblains">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Skin_conditions_resulting_from_physical_factors" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Foot_diseases" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Effects_of_external_causes" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/China">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Countries_in_Asia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Republics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1949_establishments_in_China" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:East_Asian_countries" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:G20_nations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:China" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Central_Asian_countries" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Communist_states" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:BRICS_nations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:States_and_territories_established_in_1949" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chinese-speaking_countries_and_territories" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:One-party_states" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:E7_nations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Northeast_Asian_countries" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chloroquine">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:World_Health_Organization_essential_medicines" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Antirheumatic_products" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Quinolines" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Antimalarial_agents" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chloroarenes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:RTT" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Medicine">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Health_sciences" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medicine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clinical_trial">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_statistics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Nursing_research" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Product_testing" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Food_and_Drug_Administration" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Drug_discovery" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Clinical_pharmacology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pharmaceutical_industry" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Clinical_trials" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Epidemiology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Design_of_experiments" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Clinical_research" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Central_nervous_system">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Central_nervous_system" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coagulation">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Coagulation_system" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Traumatology" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coagulopathy">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Coagulopathies" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bleeding" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coinfection">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Infectious_diseases" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Epidemiology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Virology" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Comorbidity">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mental_and_behavioural_disorders" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Complement_system">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Immune_system" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Complement_system" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CT_scan">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:X-ray_computed_tomography" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1972_introductions" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_containing_video_clips" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_tests" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Multidimensional_signal_processing" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Coronavirus">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animal_virology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Coronaviridae" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Corticosteroid">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Corticosteroids" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:World_Anti-Doping_Agency_prohibited_substances" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Intensive_care_medicine">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Intensive_care_medicine" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/CT_scan">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:X-ray_computed_tomography" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:1972_introductions" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_containing_video_clips" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_tests" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Multidimensional_signal_processing" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cytokine">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cytokines" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Immune_system" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Cytokine_storm">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Immune_system_disorders" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cytokines" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cell_biology">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cell_biology" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mortality_rate">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Actuarial_science" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_aspects_of_death" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_statistics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Epidemiology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Demography" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Population" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Population_ecology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Temporal_rates" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dentistry">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Health_sciences" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dentistry" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diabetes_mellitus">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:RTT" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Diabetes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Metabolic_disorders" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diagnosis">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_terminology" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Disease">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_terminology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Actuarial_science" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Diseases_and_disorders" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medicine_in_society" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Epidemiology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Demography" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hyperlipidemia">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Lipid_disorders" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Drug_discovery">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Clinical_pharmacology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pharmaceutical_industry" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Life_sciences_industry" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pharmaceutics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Clinical_pharmacologists" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Drug_discovery" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pharmacognosy" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medicinal_chemistry" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Clinical_research" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Drug_interaction">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Clinical_pharmacology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pharmacokinetics" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Drug_repositioning">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Drug_discovery" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pharmaceutical_industry" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Mediterranean_Sea">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Geography_of_North_Africa" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:European_seas" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mediterranean_Sea" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Mediterranean" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Natural_history_of_Europe" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Marine_ecoregions" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Marginal_seas" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Seas_of_the_Atlantic_Ocean" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_containing_video_clips" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Old_age">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Old_age" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Gerontology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Elder_law" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ageing" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Social_constructionism" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Cauterization">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_treatments" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Surgery" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Emerging_infectious_disease">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Microbial_population_biology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Infectious_diseases" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Endotheliitis">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Vascular_diseases" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Inflammations" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Epidemic">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Biological_hazards" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Epidemics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Epidemiology" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Epidemiology">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Environmental_social_science" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Epidemiology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Demography" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Health_sciences" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Public_health" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Ethics">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Axiology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Philosophy_of_life" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ethics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Social_philosophy" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fetal_echocardiography">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_ultrasonography" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cardiac_imaging" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Echocardiography">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_ultrasonography" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Radiology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cardiology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cardiac_imaging" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Fetal_echocardiography">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_ultrasonography" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cardiac_imaging" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Genotype">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Polymorphism" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Genetics" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Geriatrics">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Ageing" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medicine" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Geriatrics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/World_Health_Organization">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:United_Nations_Development_Group" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:International_medical_and_health_organizations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Organizations_established_in_1948" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Global_health" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Organisations_based_in_Geneva" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:United_Nations_Economic_and_Social_Council" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:World_Health_Organization" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:United_Nations_specialized_agencies" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Globalization">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Capitalism" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Theories_of_history" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:International_trade" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Economic_geography" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Globalization" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Interculturalism" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cultural_geography" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Glucocorticoid">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Corticosteroids" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chemical_substances_for_emergency_medicine" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Glucocorticoids" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Growth_factor">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Immune_system" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Growth_factors" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Health_professional">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Health_care" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbalism">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Botany" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Biologically-based_therapies" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:History_of_botany" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Dietary_supplements" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Herbalism" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Hip_fracture">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Bone_fractures" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Injuries_of_hip_and_thigh" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Histopathology">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Anatomical_pathology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Pathology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Histopathology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Hydroxychloroquine">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Alcohols" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Antimalarial_agents" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Chloroarenes" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Quinolines" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Antirheumatic_products" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:World_Health_Organization_essential_medicines" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Hyperglycemia">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Abnormal_clinical_and_laboratory_findings_for_blood" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Disorders_causing_seizures" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Disorders_of_endocrine_pancreas" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Immunology">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Immune_system">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Immune_system" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Immunotherapy">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Cancer_treatments" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_treatments" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Immunomodulating_drugs" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Virotherapy" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Income">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Income" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/India">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Liberal_democracies" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Republics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Countries_in_Asia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Articles_containing_video_clips" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:English-speaking_countries_and_territories" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:G15_nations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:G20_nations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:India" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:South_Asian_countries" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Commonwealth_republics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Member_states_of_the_Commonwealth_of_Nations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Federal_republics" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:E7_nations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Hindustani-speaking_countries_and_territories" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:States_and_territories_established_in_1947" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:BRICS_nations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Member_states_of_the_South_Asian_Association_for_Regional_Cooperation" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Member_states_of_the_United_Nations" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Infection">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Infectious_diseases" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Epidemiology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Centers_for_Disease_Control_and_Prevention">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Organizations_based_in_DeKalb_County,_Georgia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Biosafety_level_4_laboratories" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_research_institutes_in_the_United_States" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Centers_for_Disease_Control_and_Prevention" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:United_States_Department_of_Health_and_Human_Services_agencies" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Government_agencies_established_in_1946" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Druid_Hills,_Georgia" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:United_States_Public_Health_Service" />
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Epidemiology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Public_health" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_statistics" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Infectious_diseases">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Diseases_and_disorders" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Microbiology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Animal_viral_diseases">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Animal_virology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Animal_diseases_by_causative_agent" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Viral_diseases" />
+  </rdf:Description>
+
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Health_in_Saudi_Arabia">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_in_Asia" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_by_country" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Saudi_Arabian_society" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Bat-borne_viruses">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Viruses" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Zoonoses" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Bat_diseases" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Viral_respiratory_tract_infections">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Animal_viral_diseases" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Respiratory_diseases" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Zoonoses">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Infectious_diseases" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Anthrozoology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Animal_diseases" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Middle_East_respiratory_syndrome">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Betacoronaviruses" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Viral_respiratory_tract_infections" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:2012_in_Saudi_Arabia">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:2012_in_Asia" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:2010s_in_Saudi_Arabia" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Betacoronaviruses">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Coronaviridae" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Death_in_Saudi_Arabia">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Saudi_Arabian_society" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Death_in_Asia" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Death_by_country" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:EC_3.4.17">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:EC_3.4" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Causes_of_death">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Death" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Forensics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Causes_of_events" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Intensive_care_medicine">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Respiratory_physiology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Physiology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pulmonology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Syndromes">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Special_education" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Diseases_and_disorders" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Respiratory_diseases_principally_affecting_the_interstitium">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Lung_disorders" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Clinical_pharmacology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Drug_discovery" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Therapy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_research" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmacology" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Effects_of_external_causes">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Poisoning_and_certain_other_consequences_of_external_causes" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_terminology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Terminology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medicine" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Patient_safety">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Safety" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Patient" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Healthcare_quality" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Aerosols">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Colloids" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Liquids">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Phases_of_matter" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Soft_matter" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Solids">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Phases_of_matter" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Matter" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Solid_mechanics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Condensed_matter_physics" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Colloidal_chemistry">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Surface_science" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmaceutical_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Colloids" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Chemistry" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Colloids">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Chemical_mixtures" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Condensed_matter_physics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Soft_matter" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Fluid_dynamics">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Chemical_engineering" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Piping" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Continuum_mechanics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Fluid_mechanics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Dynamics_(mechanics)" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Physical_chemistry">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_and_interdisciplinary_physics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Chemistry" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Allergology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Allergic_rhinitis">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Type_I_hypersensitivity" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Allergology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:RTT" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Type_I_hypersensitivity">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Hypersensitivity" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Hormones_of_the_hypothalamus-pituitary-gonad_axis">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Hormones_of_the_hypothalamus-pituitary_axis" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Sex_hormones">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Hormones_of_the_hypothalamus-pituitary-gonad_axis" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Biology_of_gender" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Hormones_by_action" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Drugs_acting_on_the_genito-urinary_system" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Sexuality" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Reproductive_system" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/page/Category:Androgens/anabolic_steroids">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Biology_of_gender" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Andrology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Bodybuilding" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Sex_hormones" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Steroids" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Doping_in_sport" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Olfactory_system">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Olfaction" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Sensory_systems" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Neurological_disorders">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Diseases_and_disorders_by_system" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Neurology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Anticoagulants">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Antithrombotic_agents" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Causes_of_death">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Death" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Forensics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Causes_of_events" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Intensive_care_medicine">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Respiratory_physiology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Physiology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pulmonology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Syndromes">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Special_education" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Diseases_and_disorders" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Respiratory_diseases_principally_affecting_the_interstitium">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Lung_disorders" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Cardiac_arrhythmia">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cardiac_electrophysiology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Heart_diseases" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_emergencies">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_diseases_and_disorders" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Emergency_medicine" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Asthma">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Chronic_lower_respiratory_diseases" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Type_I_hypersensitivity" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Autoimmune_diseases" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Chronic_lower_respiratory_diseases">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Lower_respiratory_tract_diseases" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Respiratory_therapy">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pulmonology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Therapy" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Anatomical_pathology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Anatomy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pathology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_aspects_of_death">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Death" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Post-mortem">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Death" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Forensic_techniques">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Forensics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Law_enforcement_techniques" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Ayurveda">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:History_of_medieval_medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Hinduism_and_science" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:History_of_ancient_medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Hindu_studies" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Traditional_medicine_in_India" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Health_in_India">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_in_Asia" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_by_country" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Indian_society" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Alternative_medical_systems">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Alternative_medicine" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Hindu_philosophical_concepts">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Hindu_studies" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Religious_philosophical_concepts" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Hindu_philosophy" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:History_of_ancient_medicine">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:History_of_medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Ancient_history" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Massage_therapy">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Massage" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Manual_therapy" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Pseudoscience">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Types_of_scientific_fallacy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Speculative_fiction" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Science" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pseudo-scholarship" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Fringe_science" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Traditional_medicine">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Alternative_medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Alternative_medical_systems" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Traditional_knowledge" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_anthropology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:History_of_medicine" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Sakaldwipiya">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Brahmin_communities" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:South_Asian_traditional_medicine">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Asian_traditional_medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:South_Asia" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Traditional_medicine_in_India">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:South_Asian_traditional_medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_in_India" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Indian_traditions" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Vedic_period">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Ancient_Hinduism" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Historical_eras" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Civilizations" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Ancient_India" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Antibiotics">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Antimicrobial_drugs" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Biocides" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Biotechnology_products" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Bactericides" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_hygiene" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Antimalarial_agents">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Malaria" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Antiprotozoal_agents" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Macrolide_antibiotics">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Polyketide_antibiotics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Macrolides" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Pfizer_products">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Products_by_company" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pfizer" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:World_Health_Organization_essential_medicines">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Drugs" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:World_Health_Organization" />
+  </rdf:Description>
+
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Cancer_vaccines">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cancer_treatments" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Vaccines" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Live_vaccines">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Vaccines" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Tuberculosis_vaccines">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Tuberculosis" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Vaccines" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Transaction_processing">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Databases" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Concurrency_control" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Utility_software_by_type" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Data_management" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Distributed_computing_problems">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Computational_problems" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Distributed_computing" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Data_management">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Information_retrieval" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Information_technology_management" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Computer_data" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Data" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Technology_forecasting">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Forecasting" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Emerging_technologies" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Technology_assessment" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Big_data">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Types_of_databases" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Data" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Animal_anatomy">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Zoology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Anatomy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Veterinary_medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Animals" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Brain">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Animal_anatomy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Neuroscience" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Organs_(anatomy)" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Central_nervous_system" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_anatomy_by_organ" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Human_anatomy_by_organ">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_anatomy" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/page/Category:Organs_(anatomy)">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Anatomy" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medicinal_chemistry">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_research" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmaceutical_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Biochemistry" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Chemistry" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Metabolism">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Biochemistry" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cellular_processes" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Enzyme_inhibitors">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Drugs_by_mechanism_of_action" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Enzyme_kinetics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Cancer">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Neoplasms" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Diseases_and_disorders" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Types_of_cancer">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cancer" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Types_of_neoplasia">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Neoplasms" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Types_of_cancer" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Aging-associated_diseases">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Senescence" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Diseases_and_disorders" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Causes_of_death" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Occupational_safety_and_health">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Working_conditions" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Safety" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Labour_relations" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Risk_management" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Oncology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cancer" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Pathology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Branches_of_biology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Heart_diseases">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cardiovascular_diseases" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cardiology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Human_communication">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Communication_by_type" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Interpersonal_communication" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Chemical_reaction_engineering">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Chemical_reactions" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Chemical_engineering" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Chemical_kinetics">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Chemical_reaction_engineering" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Physical_chemistry" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Temporal_rates">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Rates" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Time" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Protein_domains">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Protein_structure" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Glycoproteins">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Proteins_by_structure" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Glycobiology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Immunology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Clusters_of_differentiation">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Membrane_proteins" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immune_system" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:T_cells">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Lymphocytes" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Thymus" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Biotechnology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Life_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Technology_by_type" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Biology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Cell_biology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Branches_of_biology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Stem_cells">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cells" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Biotechnology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Cerebrovascular_diseases">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Vascular_diseases" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Neurological_disorders_by_disease_category" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Antineoplastic_drugs">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Antineoplastic_and_immunomodulating_drugs" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Chemotherapy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cancer_treatments" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Cancer_treatments">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cancer" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_treatments" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Chemotherapy">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cancer_treatments" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Oncology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cancer" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Animal_anatomy">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Zoology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Anatomy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Veterinary_medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Animals" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Trilobite_anatomy">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Trilobites" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Arthropod_anatomy" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/page/Category:Thorax_(human_anatomy)">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Torso" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Anatomical_pathology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Anatomy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pathology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_signs">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Symptoms_and_signs" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Effects_of_external_causes">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Poisoning_and_certain_other_consequences_of_external_causes" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Skin_conditions_resulting_from_physical_factors">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Injuries" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cutaneous_conditions" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Effects_of_external_causes" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Foot_diseases">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Diseases_and_disorders_by_system" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Podiatry" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Foot" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Antimalarial_agents">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Malaria" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Antiprotozoal_agents" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Chloroarenes">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Organochlorides" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Aromatic_compounds" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Quinolines">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Azines" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Heterocyclic_compounds_(2_rings)" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:World_Health_Organization_essential_medicines">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Drugs" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:World_Health_Organization" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Antirheumatic_products">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Autoimmune_diseases" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Anti-inflammatory_and_antirheumatic_products" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Health_sciences">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Life_sciences" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medicine">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Branches_of_biology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_care" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Clinical_pharmacology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Drug_discovery" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Therapy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_research" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmacology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Clinical_trials">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_research" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Research_methods" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Drug_discovery">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medicinal_chemistry" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmacology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmaceutical_industry" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_research" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Nursing_research">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Healthcare_quality" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_research" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Evidence-based_practices" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Research_by_field" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_research" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Nursing" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Product_testing">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Consumer_protection" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Production_and_manufacturing" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Tests" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Products" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Pharmaceutical_industry">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmacology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Industries" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmaceutics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Clinical_research">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_research" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Design_of_experiments">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Data_collection_in_research" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Science_experiments" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Epidemiology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Public_health" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_statistics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Food_and_Drug_Administration">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Wikipedia_categories_named_after_government_agencies" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Wikipedia_categories_named_after_medical_and_health_organizations" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_and_health_organizations_based_in_the_United_States" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:National_agencies_for_drug_regulation" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmacy_in_the_United_States" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:United_States_Department_of_Health_and_Human_Services_agencies" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Food_safety_in_the_United_States" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_statistics">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_informatics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Biostatistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_economics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Central_nervous_system">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_head_and_neck" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Neuroanatomy" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Bleeding">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Blood" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_emergencies" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Coagulopathies">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Blood_disorders" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Coagulation_system" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Epidemiology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Public_health" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_statistics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Infectious_diseases">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Diseases_and_disorders" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Microbiology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Virology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Microbiology" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Mental_and_behavioural_disorders">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Social_issues" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_behavior" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Abnormal_psychology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Mental_health" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Psychiatric_diseases_and_disorders" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_diseases_and_disorders" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Complement_system">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immune_system" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Acute_phase_proteins" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Immune_system">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Organ_systems" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_tests">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_diagnosis" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Tests" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_medicine" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Multidimensional_signal_processing">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Signal_processing" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Digital_signal_processing" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:X-ray_computed_tomography">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Radiography" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Inverse_problems" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Multidimensional_signal_processing" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:1972_introductions">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:1970s_introductions" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Articles_containing_video_clips">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Wikipedia_maintenance" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Animal_virology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Virology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Veterinary_medicine" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Coronaviridae">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Virus_families" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Nidovirales" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Corticosteroids">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Steroid_hormones" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Hormones_of_the_hypothalamus-pituitary-adrenal_axis" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:World_Anti-Doping_Agency_prohibited_substances">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Doping_in_sport" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Drugs_in_sport" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Intensive_care_medicine">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_specialties">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Healthcare_occupations" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medicine" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_tests">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_diagnosis" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Tests" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_medicine" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Multidimensional_signal_processing">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Signal_processing" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Digital_signal_processing" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:X-ray_computed_tomography">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Radiography" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Inverse_problems" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Multidimensional_signal_processing" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:1972_introductions">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:1970s_introductions" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Articles_containing_video_clips">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Wikipedia_maintenance" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Cytokines">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immune_system" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Signal_transduction" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Proteins_by_function" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cell_signaling" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Immune_system">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Organ_systems" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Immunology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Immune_system_disorders">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immune_system" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Diseases_and_disorders_by_system" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Cytokines">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immune_system" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Signal_transduction" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Proteins_by_function" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cell_signaling" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Cell_biology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Branches_of_biology" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Actuarial_science">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_mathematics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Insurance" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Business_economics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Mathematical_finance" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Formal_sciences" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Demography">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Actuarial_science" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Environmental_social_science" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cultural_geography" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Interdisciplinary_subfields_of_sociology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_geography" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Epidemiology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Public_health" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_statistics" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_aspects_of_death">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Death" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_statistics">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_informatics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Biostatistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_economics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Population">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Demography" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_geography" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Population_ecology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Population" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Subfields_of_ecology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Temporal_rates">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Rates" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Time" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Dentistry">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Mouth" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Health_sciences">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Life_sciences" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_specialties">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Healthcare_occupations" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medicine" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Diabetes">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Disorders_of_endocrine_pancreas" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Metabolic_disorders">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Endocrine,_nutritional_and_metabolic_diseases" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Metabolism" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_terminology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Terminology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medicine" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Actuarial_science">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_mathematics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Insurance" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Business_economics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Mathematical_finance" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Formal_sciences" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Demography">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Actuarial_science" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Environmental_social_science" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cultural_geography" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Interdisciplinary_subfields_of_sociology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_geography" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Diseases_and_disorders">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_medicine" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Epidemiology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Public_health" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_statistics" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_terminology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Terminology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medicine" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medicine_in_society">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Society" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Lipid_disorders">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Lipids" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Metabolic_disorders" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Clinical_pharmacology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Drug_discovery" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Therapy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_research" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmacology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Drug_discovery">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medicinal_chemistry" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmacology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmaceutical_industry" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_research" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medicinal_chemistry">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_research" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmaceutical_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Biochemistry" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Chemistry" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Pharmaceutical_industry">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmacology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Industries" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmaceutics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Pharmacognosy">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmaceutical_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmacology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Clinical_pharmacologists">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_pharmacology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmacologists" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Clinical_research">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_research" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Life_sciences_industry">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Life_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Biotechnology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Industry" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Pharmaceutics">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmaceutical_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmacy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Drugs" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Clinical_pharmacology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Drug_discovery" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Therapy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_research" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmacology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Pharmacokinetics">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmacology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmaceutics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Drug_discovery">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medicinal_chemistry" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmacology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmaceutical_industry" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_research" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Pharmaceutical_industry">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmacology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Industries" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmaceutics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Elder_law">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Old_age" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_law" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Old_age">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Adulthood" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Ageing">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Demography" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Population" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_development" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Gerontology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Demography" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Branches_of_biology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Old_age" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Interdisciplinary_subfields_of_sociology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Social_constructionism">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Constructivism" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Social_engineering_(political_science)" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Sociological_theories" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Social_theories" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Social_epistemology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cultural_politics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Surgery">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_treatments">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_medicine" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Infectious_diseases">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Diseases_and_disorders" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Microbiology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Microbial_population_biology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Microbiology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Population_ecology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Subfields_of_evolutionary_biology" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Vascular_diseases">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Angiology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cardiovascular_diseases" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Inflammations">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Diseases_and_disorders" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Biological_hazards">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Natural_hazards" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Biological_contamination" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Biology_and_culture" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Epidemics">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Infectious_diseases" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Epidemiology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Disease_outbreaks" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Epidemiology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Public_health" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_statistics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Demography">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Actuarial_science" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Environmental_social_science" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cultural_geography" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Interdisciplinary_subfields_of_sociology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_geography" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Environmental_social_science">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Environment_and_society" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Environmental_studies" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Social_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Environmental_science" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Epidemiology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Public_health" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_statistics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Health_sciences">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Life_sciences" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Public_health">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Euthenics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_policy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Public_sphere" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_humanities" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_economics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Axiology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Value_(ethics)" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Branches_of_philosophy" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Ethics">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Philosophy_of_life" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Stereotypes" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Branches_of_philosophy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Social_institutions" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Philosophy_of_life">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Life" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Personal_life" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Self" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Philosophical_theories" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Philosophy_by_topic" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Social_philosophy">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Social_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Interdisciplinary_subfields_of_sociology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Ethics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_ultrasonography">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_imaging" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Acoustic_measurement" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_physics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Ultrasound" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Cardiac_imaging">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_imaging_by_system" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cardiac_procedures" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_ultrasonography">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_imaging" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Acoustic_measurement" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_physics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Ultrasound" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Radiology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_imaging" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Cardiology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cardiovascular_system" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Internal_medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Heart" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Cardiac_imaging">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_imaging_by_system" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cardiac_procedures" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Genetics">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Branches_of_biology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Polymorphism">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Evolutionarily_significant_biological_phenomena" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Antipredator_adaptations" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Evolutionary_dynamics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Population_ecology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Genetics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Geriatrics">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Old_age" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Ageing">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Demography" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Population" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_development" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_specialties">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Healthcare_occupations" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medicine" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medicine">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Branches_of_biology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_care" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Economic_geography">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Regional_science" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Relation_of_economics_to_other_disciplines" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Branches_of_geography" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_geography" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Globalization">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Sociology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:World" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Politics_by_issue" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Interculturalism">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Multiculturalism" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cultural_globalization" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Social_theories" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cultural_studies" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Capitalism">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Economic_liberalism" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Economic_systems" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Individualism" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Cultural_geography">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Culture_terminology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_geography" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cultural_studies" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:International_trade">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:International_relations" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Trade" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:International_business" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Global_business_organization" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Theories_of_history">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Theories" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Works_about_history" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:History" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Corticosteroids">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Steroid_hormones" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Hormones_of_the_hypothalamus-pituitary-adrenal_axis" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Glucocorticoids">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Corticosteroids" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Hormonal_agents" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immunosuppressants" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Anti-inflammatory_agents" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Hormones_of_the_suprarenal_cortex" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Chemical_substances_for_emergency_medicine">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Rescue" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Emergency_medical_procedures" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Chemical_substances_by_utilization" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Chemicals_in_medicine" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Growth_factors">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Proteins_by_function" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cell_signaling" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Signal_transduction" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Immune_system">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Organ_systems" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Health_care">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Service_industries" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:History_of_botany">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Botany" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:History_of_biology_by_subdiscipline" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Biologically-based_therapies">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Alternative_medical_treatments" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Botany">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Branches_of_biology" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Dietary_supplements">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Biologically-based_therapies" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Dietetics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Nutrition" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Herbalism">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pharmacognosy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:History_of_botany" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Naturopathy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Alternative_medical_systems" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Natural_environment_based_therapies" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Botany" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Injuries_of_hip_and_thigh">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Injuries_by_region_of_body" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Bone_fractures">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Skeletal_disorders" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Injuries" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_lists" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Anatomical_pathology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Anatomy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pathology" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Pathology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Branches_of_biology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Histopathology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Histology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Anatomical_pathology" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Alcohols">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Oxygen_compounds" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Organic_compounds" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Antimalarial_agents">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Malaria" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Antiprotozoal_agents" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Chloroarenes">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Organochlorides" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Aromatic_compounds" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Quinolines">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Azines" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Heterocyclic_compounds_(2_rings)" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:World_Health_Organization_essential_medicines">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Drugs" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:World_Health_Organization" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Antirheumatic_products">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Autoimmune_diseases" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Anti-inflammatory_and_antirheumatic_products" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Abnormal_clinical_and_laboratory_findings_for_blood">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Abnormal_clinical_and_laboratory_findings" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Blood_tests" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Disorders_causing_seizures">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Diseases_and_disorders" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Disorders_of_endocrine_pancreas">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Endocrine_pancreas" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Endocrine_diseases" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_imaging">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_tests" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_physics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Image_processing" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Anthropometry" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Imaging" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_equipment" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Image_processing">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Computer_graphics_algorithms" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Computer_graphics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Signal_processing" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Computer_vision" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Imaging" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Multidimensional_signal_processing" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Digital_signal_processing" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_physics">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Theory_of_medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_and_interdisciplinary_physics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Nuclear_medicine">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Nuclear_technology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Radiology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_physics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Immunology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Immune_system">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Organ_systems" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Immunology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Cancer_treatments">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cancer" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_treatments" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Immunology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_treatments">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_medicine" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Virotherapy">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Virology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Biopharmaceuticals" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Experimental_medical_treatments" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Immunomodulating_drugs">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Antineoplastic_and_immunomodulating_drugs" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Income">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Wealth" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Finance" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Epidemiology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Public_health" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_statistics" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Health_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_statistics" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Infectious_diseases">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Diseases_and_disorders" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Microbiology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Animal_physiology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Physiology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Animals" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Zoology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Human_physiology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_body" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_biology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Immunology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Inflammations">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Diseases_and_disorders" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Inflammation">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animal_physiology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Human_physiology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Inflammations" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Immunology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Influenza">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Healthcare-associated_infections" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Influenza" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Animal_viral_diseases" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:RTT" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Animal_viral_diseases">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Animal_virology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Animal_diseases_by_causative_agent" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Viral_diseases" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Healthcare-associated_infections">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Infectious_diseases" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Influenza">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Respiratory_diseases" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Viral_respiratory_tract_infections" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Poultry_diseases" />
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orthomyxoviridae">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Virus_families" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Orthomyxoviridae" />
+  </rdf:Description>
+ <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Virus_families">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Families_(biology)" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Virus_taxonomy" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Orthomyxoviridae">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Negative-sense_single-stranded_RNA_viruses" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Virus_families" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Intelligence">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Intelligence" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Developmental_psychology" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Psychological_testing" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Educational_psychology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Developmental_psychology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Branches_of_psychology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Child_development" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Human_development" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Educational_psychology">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Social_sciences" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Education" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Pedagogy" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Applied_psychology" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Intelligence">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Neuroscience" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Educational_psychology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Cognition" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Memory" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Learning" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Psychological_testing">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Psychology" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Tests" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Intensive_care_medicine">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Intensive_care_medicine" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Intensive_care_medicine">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medical_specialties" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Medical_specialties">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Clinical_medicine" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Healthcare_occupations" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Medicine" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Kidney">
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Kidney" />
+    <dct:subject rdf:resource="http://dbpedia.org/resource/Category:Endocrine_system" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Endocrine_system">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Glands" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Organ_systems" />
+  </rdf:Description>
+<rdf:Description rdf:about="http://dbpedia.org/resource/Category:Kidney">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Endocrine_system" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Abdomen" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Urinary_system" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Organs_(anatomy)" />
+  </rdf:Description>
+
+
+
+</rdf:RDF>

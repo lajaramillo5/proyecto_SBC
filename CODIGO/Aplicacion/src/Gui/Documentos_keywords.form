@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,34,0,0,2,-123"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Documento segun la palabra en dbpedia"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="87" y="21" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Palabra Clave:"/>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="50" y="67" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboBox1">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="89">
+            <StringItem index="0" value="Dbpedia_key"/>
+            <StringItem index="1" value="Acute_respiratory_distress_syndrome"/>
+            <StringItem index="2" value="Adverse_effect"/>
+            <StringItem index="3" value="Aerosol"/>
+            <StringItem index="4" value="Allergic_rhinitis"/>
+            <StringItem index="5" value="Androgen"/>
+            <StringItem index="6" value="Angiotensin-converting_enzyme_2"/>
+            <StringItem index="7" value="Anosmia"/>
+            <StringItem index="8" value="Anticoagulant"/>
+            <StringItem index="9" value="Asthma"/>
+            <StringItem index="10" value="Autopsy"/>
+            <StringItem index="11" value="Ayurveda"/>
+            <StringItem index="12" value="Azithromycin"/>
+            <StringItem index="13" value="BCG_vaccine"/>
+            <StringItem index="14" value="Big_data"/>
+            <StringItem index="15" value="Brain"/>
+            <StringItem index="16" value="Cancer"/>
+            <StringItem index="17" value="Cardiac_arrhythmia"/>
+            <StringItem index="18" value="Cardiovascular_disease"/>
+            <StringItem index="19" value="Care_perspective"/>
+            <StringItem index="20" value="Cauterization"/>
+            <StringItem index="21" value="CD4"/>
+            <StringItem index="22" value="Cell_biology"/>
+            <StringItem index="23" value="Cell_therapy"/>
+            <StringItem index="24" value="Central_nervous_system"/>
+            <StringItem index="25" value="Cerebrovascular_disease"/>
+            <StringItem index="26" value="Chemotherapy"/>
+            <StringItem index="27" value="Chilblains"/>
+            <StringItem index="28" value="China"/>
+            <StringItem index="29" value="China"/>
+            <StringItem index="30" value="Chloroquine"/>
+            <StringItem index="31" value="Clinical_trial"/>
+            <StringItem index="32" value="Coagulation"/>
+            <StringItem index="33" value="Coagulopathy"/>
+            <StringItem index="34" value="Coinfection"/>
+            <StringItem index="35" value="Comorbidity"/>
+            <StringItem index="36" value="Complement_system"/>
+            <StringItem index="37" value="Coronavirus"/>
+            <StringItem index="38" value="Corticosteroid"/>
+            <StringItem index="39" value="CT_scan"/>
+            <StringItem index="40" value="Cytokine"/>
+            <StringItem index="41" value="Cytokine"/>
+            <StringItem index="42" value="Cytokine_storm"/>
+            <StringItem index="43" value="Dentistry"/>
+            <StringItem index="44" value="Diabetes_mellitus"/>
+            <StringItem index="45" value="Diagnosis"/>
+            <StringItem index="46" value="Disease"/>
+            <StringItem index="47" value="Drug_discovery"/>
+            <StringItem index="48" value="Drug_interaction"/>
+            <StringItem index="49" value="Drug_repositioning"/>
+            <StringItem index="50" value="Echocardiography"/>
+            <StringItem index="51" value="Emerging_infectious_disease"/>
+            <StringItem index="52" value="Endotheliitis"/>
+            <StringItem index="53" value="Enzyme_inhibitor"/>
+            <StringItem index="54" value="Epidemic"/>
+            <StringItem index="55" value="Epidemiology"/>
+            <StringItem index="56" value="Ethics"/>
+            <StringItem index="57" value="Fetal_echocardiography"/>
+            <StringItem index="58" value="Genotype"/>
+            <StringItem index="59" value="Geriatrics"/>
+            <StringItem index="60" value="Globalization"/>
+            <StringItem index="61" value="Glucocorticoid"/>
+            <StringItem index="62" value="Growth_factor"/>
+            <StringItem index="63" value="Health_professional"/>
+            <StringItem index="64" value="Herbalism"/>
+            <StringItem index="65" value="Hip_fracture"/>
+            <StringItem index="66" value="Histopathology"/>
+            <StringItem index="67" value="Hydroxychloroquine"/>
+            <StringItem index="68" value="Hyperglycemia"/>
+            <StringItem index="69" value="Immune_system"/>
+            <StringItem index="70" value="Immunology"/>
+            <StringItem index="71" value="Immunotherapy"/>
+            <StringItem index="72" value="Income"/>
+            <StringItem index="73" value="Infection"/>
+            <StringItem index="74" value="Inflammation"/>
+            <StringItem index="75" value="Influenza"/>
+            <StringItem index="76" value="Intelligence"/>
+            <StringItem index="77" value="Intensive_care_medicine"/>
+            <StringItem index="78" value="Kidney"/>
+            <StringItem index="79" value="Lesion"/>
+            <StringItem index="80" value="Medical_imaging"/>
+            <StringItem index="81" value="Medicine"/>
+            <StringItem index="82" value="Middle_East_respiratory_syndrome_coronavirus"/>
+            <StringItem index="83" value="Mortality_rate"/>
+            <StringItem index="84" value="Old_age"/>
+            <StringItem index="85" value="Orthomyxoviridae"/>
+            <StringItem index="86" value="Pandemic"/>
+            <StringItem index="87" value="Reaction_rate"/>
+            <StringItem index="88" value="Thorax"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox1ActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="140" y="60" width="131" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="100" width="630" height="140"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="jTable1">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="1" rowCount="4">
+                <Column editable="true" title="Docuemntos" type="java.lang.Object"/>
+              </Table>
+            </Property>
+            <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+              <TableColumnModel selectionModel="0">
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="false">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+              </TableColumnModel>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="40" y="290" width="530" height="230"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextPane" name="jTextPane1">
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Volver"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="530" y="20" width="-1" height="-1"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>
